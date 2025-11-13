@@ -1,8 +1,6 @@
 title: FitHub Legal
 description: Privacy Policy and Terms of Service for FitHub.
 permalink: pretty
-url: https://legal.fithub.app
-baseurl: ""
 plugins:
   - jekyll-feed
 
