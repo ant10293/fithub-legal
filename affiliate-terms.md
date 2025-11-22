@@ -7,7 +7,6 @@ version: v1.0.0
 
 ## 1. Agreement to Terms
 
-
 By participating in the FitHub Affiliate Program (the "Program"), you ("Affiliate," "you," or "your") agree to be bound by these Affiliate Program Terms and Conditions (the "Terms"). If you do not agree to these Terms, you may not participate in the Program.
 
 These Terms are in addition to, and do not replace, FitHub's Terms of Service and Privacy Policy, which are incorporated by reference. In the event of a conflict between these Terms and the Terms of Service, these Terms shall govern with respect to the Program.
