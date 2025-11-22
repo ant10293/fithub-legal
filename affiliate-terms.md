@@ -2,7 +2,7 @@
 layout: legal
 title: Affiliate Program Terms and Conditions
 permalink: /affiliate-terms/
-last_updated: 2025-11-22
+version: v1.0.0
 ---
 
 ## 1. Agreement to Terms
