@@ -15,7 +15,7 @@ FitHub is available to users of any age. If you are under 13, a parent or legal 
 
 ## 3. Account Registration and Security
 
-You must provide accurate and complete information when creating an account and keep it current. You are responsible for safeguarding your login credentials and for all activities that occur under your account. Notify us immediately at [support@fithub.app](mailto:support@fithub.app) if you suspect unauthorized access.
+You must provide accurate and complete information when creating an account and keep it current. You are responsible for safeguarding your login credentials and for all activities that occur under your account. Notify us immediately at [support@fithub-app.com](mailto:support@fithub-app.com) if you suspect unauthorized access.
 
 ## 4. Subscription and Billing
 
@@ -28,7 +28,7 @@ Some features may require a paid subscription (“Premium”).
 
 ## 5. User Content
 
-FitHub does not host community feeds or public user-generated content. The information you provide—such as account details, support messages, or other direct submissions—remains yours. We handle it solely to deliver the App’s features (for example, storing your profile information or processing a support request) and do not use it for advertising, sharing, or distribution to third parties beyond what is described in the Privacy Policy. If you wish to remove any information you have provided, you can do so through the App or by contacting [support@fithub.app](mailto:support@fithub.app).
+FitHub does not host community feeds or public user-generated content. The information you provide—such as account details, support messages, or other direct submissions—remains yours. We handle it solely to deliver the App's features (for example, storing your profile information or processing a support request) and do not use it for advertising, sharing, or distribution to third parties beyond what is described in the Privacy Policy. If you wish to remove any information you have provided, you can do so through the App or by contacting [support@fithub-app.com](mailto:support@fithub-app.com).
 
 ## 6. Health and Safety Disclaimer
 
@@ -79,5 +79,5 @@ We may update these Terms over time. Material changes will be communicated throu
 ## 16. Contact
 
 FitHub Legal Team  
-Email: [legal@fithub.app](mailto:legal@fithub.app)  
+Email: [legal@fithub-app.com](mailto:legal@fithub-app.com)  
 Address: \[Insert business mailing address]

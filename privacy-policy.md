@@ -43,17 +43,17 @@ We retain personal data while your account remains active or as needed to provid
 
 ## 6. Your Choices and Rights
 
-- Access, update, or delete your account through the App or by contacting [support@fithub.app](mailto:support@fithub.app).
+- Access, update, or delete your account through the App or by contacting [support@fithub-app.com](mailto:support@fithub-app.com).
 - Opt out of marketing emails using the unsubscribe link in any message.
 - Residents in certain regions (e.g., EU, California) may have additional rights such as data portability or limiting processing.
 
 ## 7. Security
 
-We maintain technical and organizational safeguards (e.g., encryption in transit, restricted access). No security measure is flawless; report suspected issues to [security@fithub.app](mailto:security@fithub.app).
+We maintain technical and organizational safeguards (e.g., encryption in transit, restricted access). No security measure is flawless; report suspected issues to [security@fithub-app.com](mailto:security@fithub-app.com).
 
 ## 8. Children’s Privacy
 
-The App may be used by individuals of any age. We do not knowingly collect personal information from children under 13 without verifiable parental consent. If you are a parent or guardian and believe we have collected information from a child under 13 without consent, contact us at [privacy@fithub.app](mailto:privacy@fithub.app) so we can review, update, or delete the data. We take reasonable steps to protect the privacy of younger users and comply with applicable child privacy laws.
+The App may be used by individuals of any age. We do not knowingly collect personal information from children under 13 without verifiable parental consent. If you are a parent or guardian and believe we have collected information from a child under 13 without consent, contact us at [privacy@fithub-app.com](mailto:privacy@fithub-app.com) so we can review, update, or delete the data. We take reasonable steps to protect the privacy of younger users and comply with applicable child privacy laws.
 
 ## 9. International Transfers
 
@@ -66,6 +66,6 @@ We may update this Privacy Policy. Material changes will be announced via the Ap
 ## 11. Contact
 
 FitHub Privacy Team  
-Email: [privacy@fithub.app](mailto:privacy@fithub.app)  
+Email: [privacy@fithub-app.com](mailto:privacy@fithub-app.com)  
 Address: \[Insert business mailing address]
 

@@ -229,7 +229,7 @@ This information will be used to:
 ### 12.1 Termination by You
 
 You may terminate your participation in the Program at any time by:
-- Contacting FitHub at [AFFILIATE_EMAIL]
+- Contacting FitHub at [affiliates@fithub-app.com](mailto:affiliates@fithub-app.com)
 - Removing your referral code from active use
 
 ### 12.2 Termination by FitHub
@@ -342,7 +342,7 @@ FitHub shall not be liable for any failure or delay in performance under these T
 If you have questions about these Terms or the Program, please contact:
 
 **FitHub Affiliate Program**  
-Email: [AFFILIATE_EMAIL]  
+Email: [affiliates@fithub-app.com](mailto:affiliates@fithub-app.com)  
 Website: [WEBSITE_URL]  
 Address: [BUSINESS_ADDRESS]
 
