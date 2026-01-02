@@ -343,8 +343,6 @@ If you have questions about these Terms or the Program, please contact:
 
 **FitHub Affiliate Program**  
 Email: [affiliates@fithub-app.com](mailto:affiliates@fithub-app.com)  
-Website: [WEBSITE_URL]  
-Address: [BUSINESS_ADDRESS]
 
 ---
 
