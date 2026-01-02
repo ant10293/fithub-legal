@@ -67,5 +67,3 @@ We may update this Privacy Policy. Material changes will be announced via the Ap
 
 FitHub Privacy Team  
 Email: [privacy@fithub-app.com](mailto:privacy@fithub-app.com)  
-Address: \[Insert business mailing address]
-
