@@ -80,4 +80,3 @@ We may update these Terms over time. Material changes will be communicated throu
 
 FitHub Legal Team  
 Email: [legal@fithub-app.com](mailto:legal@fithub-app.com)  
-Address: \[Insert business mailing address]
