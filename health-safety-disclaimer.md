@@ -5,8 +5,6 @@ permalink: /health-safety-disclaimer/
 last_updated: February 7, 2026
 ---
 
-The following is excerpted from our [Terms of Service](/terms/).
-
 ## 6. Health and Safety Disclaimer
 
 FitHub offers fitness tracking and informational tools. It does not provide medical advice or diagnoses. Consult a physician before starting any exercise program. Use the App at your own risk and discontinue use if you experience pain, dizziness, or other concerning symptoms.
